@@ -1,0 +1,1143 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/WHW8/WHW08
+vabs15from16
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1733456636
+!i10b 1
+!s100 DEPJWZJ@j@f1^5Vmo8CXz3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^YA]c8;[N_129=QTLUnK40
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5
+w1729542241
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/abs15from16.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/abs15from16.sv
+!i122 163
+Z5 L0 1 26
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1733456636.000000
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/abs15from16.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/abs15from16.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+vaccumReg18
+R0
+R1
+!i10b 1
+!s100 JGGGlccckhQ?i8YbXZ[HP3
+R2
+Iak36id5I[GkU@COGml2LG0
+R3
+S1
+R4
+w1729554144
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/accumReg18.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/accumReg18.sv
+!i122 164
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/accumReg18.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/accumReg18.sv|
+!i113 1
+R8
+R9
+naccum@reg18
+vAHW1
+R0
+Z10 !s110 1733456632
+!i10b 1
+!s100 o2bZgHe8IL6gX7cFPfH<@0
+R2
+IhEj2T@^QBd7m=AWnnL:jO0
+R3
+S1
+R4
+w1726718400
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW1.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW1.sv
+!i122 123
+L0 1 39
+R6
+r1
+!s85 0
+31
+Z11 !s108 1733456632.000000
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW1.sv|
+!i113 1
+R8
+R9
+n@a@h@w1
+vAHW2
+R0
+R10
+!i10b 1
+!s100 _n=WEd^766N1;oe_aVjne1
+R2
+Ic[D:j?UaIFd<zBeBjg4:R0
+R3
+S1
+R4
+w1728423394
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW2.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW2.sv
+!i122 124
+L0 1 27
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW2.sv|
+!i113 1
+R8
+R9
+n@a@h@w2
+vampCalcAvg
+R0
+!s110 1733457360
+!i10b 1
+!s100 :OhXQPe:F?lzam]F1:K241
+R2
+IVD`Ff<Yf[`7IMUL30JH5H0
+R3
+S1
+R4
+w1733457340
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv
+!i122 168
+L0 1 206
+R6
+r1
+!s85 0
+31
+!s108 1733457360.000000
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv|
+!i113 1
+R8
+R9
+namp@calc@avg
+vampCalcAvg_tb
+R0
+R10
+!i10b 1
+!s100 3QPhUA[RhbhkZD2M`1_cW3
+R2
+I?ak8TGlfMO::;BWhb4GPG1
+R3
+S1
+R4
+Z12 w1733437149
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv
+!i122 126
+L0 1 136
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv|
+!i113 1
+R8
+R9
+namp@calc@avg_tb
+vampReg9
+R0
+!s110 1733456842
+!i10b 1
+!s100 D8B:S;8nkmF3c>HOkY@ZF3
+R2
+I6:jS;C_=D:g1Q52QRK@4=1
+R3
+S1
+R4
+R12
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv
+!i122 166
+L0 1 16
+R6
+r1
+!s85 0
+31
+!s108 1733456842.000000
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv|
+!i113 1
+R8
+R9
+namp@reg9
+vAudioAWH
+R0
+R10
+!i10b 1
+!s100 0N1:z:lf<@KT1zP]90<?c1
+R2
+I:J9kOj@T1PDY?12W>?1j<1
+R3
+S1
+R4
+Z13 w1733437150
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioAWH.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioAWH.sv
+!i122 128
+L0 6 93
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioAWH.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioAWH.sv|
+!i113 1
+R8
+R9
+n@audio@a@w@h
+vAudioScale
+R0
+R10
+!i10b 1
+!s100 J0:;SI:l>hgibFPUS?fho0
+R2
+IE=aYn`obQ6Qh<cR@e:b`C1
+R3
+S1
+R4
+R13
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioScale.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioScale.sv
+!i122 129
+Z14 L0 1 34
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioScale.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioScale.sv|
+!i113 1
+R8
+R9
+n@audio@scale
+vaudReg
+R0
+Z15 !s110 1733456633
+!i10b 1
+!s100 63E>49nTR5NLifDQ;AiTG0
+R2
+ICC@VR9kPMO9hGeGAc9E^N0
+R3
+S1
+R4
+R13
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/audReg.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/audReg.sv
+!i122 130
+L0 1 15
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/audReg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/audReg.sv|
+!i113 1
+R8
+R9
+naud@reg
+vbcd7seg
+R0
+R15
+!i10b 1
+!s100 9^XhZ2KNMNQC=@[PoAO@G1
+R2
+IXYd<6PEQjz0373g2V9Pc50
+R3
+S1
+R4
+Z16 w1727559492
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg.sv
+!i122 131
+Z17 L0 1 17
+R6
+r1
+!s85 0
+31
+Z18 !s108 1733456633.000000
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg.sv|
+!i113 1
+R8
+R9
+vbcd7seg_tb
+R0
+R15
+!i10b 1
+!s100 aYJ3WGD:Wj2;32OWG`mNK2
+R2
+I3[n3]DbViXLffPKH2RKEF0
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg_tb.sv
+!i122 132
+L0 1 45
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg_tb.sv|
+!i113 1
+R8
+R9
+vcmdROM
+R0
+R15
+!i10b 1
+!s100 Rz=z>?f81<3L<0gjAPGGo2
+R2
+ID1`:eGSL=mL6gGWOHT2[d2
+R3
+S1
+R4
+Z19 w1733452525
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmdROM.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmdROM.sv
+!i122 133
+L0 1 25
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmdROM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmdROM.sv|
+!i113 1
+R8
+R9
+ncmd@r@o@m
+vcmp1bit
+R0
+R15
+!i10b 1
+!s100 olPOEhjIj5A3TVA1K[dS03
+R2
+I?;5TnP;;3aIP<kK[^Vjb>0
+R3
+S1
+R4
+w1728282514
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit.sv
+!i122 134
+L0 1 47
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit.sv|
+!i113 1
+R8
+R9
+vcmp1bit_tb
+!s105 cmp1bit_tb_sv_unit
+DXx4 work 18 cmp1bit_tb_sv_unit 0 22 Y?a:_hN<QKIT2_zjYXjF[2
+R0
+R15
+!i10b 1
+!s100 7zTk8lHe<[@7O=0:eHgIC3
+R2
+I5lAgekjjW8Uf7@=gY63<c2
+R3
+S1
+R4
+Z20 w1727836603
+Z21 8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv
+Z22 FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv
+!i122 135
+L0 1 51
+R6
+r1
+!s85 0
+31
+R18
+Z23 !s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv|
+Z24 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv|
+!i113 1
+R8
+R9
+Xcmp1bit_tb_sv_unit
+R0
+R15
+VY?a:_hN<QKIT2_zjYXjF[2
+r1
+!s85 0
+!i10b 1
+!s100 d=XSGUi;AKmlH4IMEg;P;2
+IY?a:_hN<QKIT2_zjYXjF[2
+!i103 1
+S1
+R4
+R20
+R21
+R22
+!i122 135
+L0 51 0
+R6
+31
+R18
+R23
+R24
+!i113 1
+R8
+R9
+vCODEC_cfg
+R0
+R15
+!i10b 1
+!s100 RmDKJ1g2M6kIz_jikNbZJ0
+R2
+IO8NDzDflHggI:NFM>4:mj2
+R3
+S1
+R4
+R19
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg.sv
+!i122 136
+L0 1 91
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg.sv|
+!i113 1
+R8
+R9
+n@c@o@d@e@c_cfg
+vCODEC_cfg_tb
+R0
+R15
+!i10b 1
+!s100 E3n=H<Sh;APg6448FmYaz1
+R2
+Ij[g=hL>WGZOG`YozcRmlz0
+R3
+S1
+R4
+R19
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg_tb.sv
+!i122 137
+L0 1 106
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg_tb.sv|
+!i113 1
+R8
+R9
+n@c@o@d@e@c_cfg_tb
+vcodec_intf
+R0
+R15
+!i10b 1
+!s100 b8Tg1gJZVkljO[fihd3[81
+R2
+IdJ=G:7AE5lZnU6oZLKBHE3
+R3
+S1
+R4
+R13
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/codec_intf.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/codec_intf.sv
+!i122 138
+L0 1 120
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/codec_intf.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/codec_intf.sv|
+!i113 1
+R8
+R9
+vd_en_ff
+R0
+R1
+!i10b 1
+!s100 KzG9]i2c0j?UY]O;;<A:h2
+R2
+I@KeVz1TXJnI=M3zcXghf40
+R3
+S1
+R4
+w1729541724
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_en_ff.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_en_ff.sv
+!i122 165
+L0 7 34
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_en_ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_en_ff.sv|
+!i113 1
+R8
+R9
+vd_ff
+R0
+R15
+!i10b 1
+!s100 Q<S;[fK>:IDMlTgjN1^i>0
+R2
+ITR6CO[PoL2^^FVR7d_PT?2
+R3
+S1
+R4
+w1729535831
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_ff.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_ff.sv
+!i122 139
+R17
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_ff.sv|
+!i113 1
+R8
+R9
+vFA
+R0
+Z25 !s110 1733456634
+!i10b 1
+!s100 _nMUNhXUkgR;LkzLUXD8B2
+R2
+Ig]z6zkc9:a=0;[6=Y5nS>0
+R3
+S1
+R4
+w1726716072
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA.sv
+!i122 140
+L0 5 23
+R6
+r1
+!s85 0
+31
+Z26 !s108 1733456634.000000
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA.sv|
+!i113 1
+R8
+R9
+n@f@a
+vFA_tb
+R0
+R25
+!i10b 1
+!s100 fEDkL54h02]R_nN;a^?hf0
+R2
+Iz<B:PmXDP4Jg9nHSM;2:_3
+R3
+S1
+R4
+Z27 w1726630263
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA_tb.sv
+!i122 141
+L0 1 38
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA_tb.sv|
+!i113 1
+R8
+R9
+n@f@a_tb
+vI2C24Wrt
+R0
+R25
+!i10b 1
+!s100 B>U3AYm>PeB>i^?XL2h^n1
+R2
+IJ>__0VihiEJFoJ5?9l[5L0
+R3
+S1
+R4
+R19
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/I2C24Wrt.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/I2C24Wrt.sv
+!i122 142
+L0 1 174
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/I2C24Wrt.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/I2C24Wrt.sv|
+!i113 1
+R8
+R9
+n@i2@c24@wrt
+vinc4EnComb
+R0
+R25
+!i10b 1
+!s100 l;=eLT^=N2J9FNN5l^eoe3
+R2
+IdiFQ75=l]BRcLANPIYKWP2
+R3
+S1
+R4
+w1728283487
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb.sv
+!i122 143
+L0 1 44
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb.sv|
+!i113 1
+R8
+R9
+ninc4@en@comb
+vinc4EnComb_tb
+R0
+R25
+!i10b 1
+!s100 8Jd8a?7@:6FLM6TmPETSk1
+R2
+IzG;laQI`dg;6DBAX?ZBRC3
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb_tb.sv
+!i122 144
+L0 1 66
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb_tb.sv|
+!i113 1
+R8
+R9
+ninc4@en@comb_tb
+vmag15
+R0
+R25
+!i10b 1
+!s100 Pl0ggUd_@kDH]khebbKho3
+R2
+IHOOZSFM5[HTNZR@CK3M@90
+R3
+S1
+R4
+w1727838423
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15.sv
+!i122 146
+R14
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15.sv|
+!i113 1
+R8
+R9
+vmag15_tb
+R0
+R25
+!i10b 1
+!s100 F3jL6:lgG6_Ejj_0MkbHo0
+R2
+IW<5E;o_U=5ge<HZ6FX=R20
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15_tb.sv
+!i122 147
+L0 1 69
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15_tb.sv|
+!i113 1
+R8
+R9
+vmag2therm
+R0
+R25
+!i10b 1
+!s100 B9<fXeajZ`9HeZz=2YjnO0
+R2
+IWICcZLYHS?7RL>FoinZ5L0
+R3
+S1
+R4
+R13
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag2therm.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag2therm.sv
+!i122 145
+L0 1 20
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag2therm.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag2therm.sv|
+!i113 1
+R8
+R9
+vRCA32
+R0
+Z28 !s110 1733456635
+!i10b 1
+!s100 6S7VDieFIF>]n:b6EK;<10
+R2
+InA=[C7:5YKoi]9Ma07@Tb1
+R3
+S1
+R4
+w1726717462
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32.sv
+!i122 150
+L0 5 54
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32.sv|
+!i113 1
+R8
+R9
+n@r@c@a32
+vRCA32_tb
+R0
+R28
+!i10b 1
+!s100 NIcC^1oVFUC3Gz<e?n7;L1
+R2
+IHhkGKSOLY`e4H5_PU_7Xf0
+R3
+S1
+R4
+R27
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32_tb.sv
+!i122 151
+L0 1 64
+R6
+r1
+!s85 0
+31
+Z29 !s108 1733456635.000000
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32_tb.sv|
+!i113 1
+R8
+R9
+n@r@c@a32_tb
+vRCA4
+R0
+R25
+!i10b 1
+!s100 R1dM98WamDWEB[?iSo5<Q0
+R2
+I;NK16<T<zQONUd1?lK4=52
+R3
+S1
+R4
+w1726716732
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4.sv
+!i122 148
+L0 5 36
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4.sv|
+!i113 1
+R8
+R9
+n@r@c@a4
+vRCA4_tb
+R0
+R25
+!i10b 1
+!s100 WUII67c58VncEClaN0Chf3
+R2
+I@oGj9@I`gF87^ba;X_5Nf3
+R3
+S1
+R4
+R27
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4_tb.sv
+!i122 149
+L0 1 33
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4_tb.sv|
+!i113 1
+R8
+R9
+n@r@c@a4_tb
+vsegAdec
+R0
+R28
+!i10b 1
+!s100 TAflZoj5I`>lW1A>@2S5g2
+R2
+IBJG2WV3M5Q:0Th@Sg_^Qc2
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segAdec.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segAdec.sv
+!i122 152
+L0 3 14
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segAdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segAdec.sv|
+!i113 1
+R8
+R9
+nseg@adec
+vsegBdec
+R0
+R28
+!i10b 1
+!s100 DMU6JM=gLcTi_H0O6UizU3
+R2
+IKeD_gOe5<^5aIngcQ1kKY3
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segBdec.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segBdec.sv
+!i122 153
+L0 1 18
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segBdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segBdec.sv|
+!i113 1
+R8
+R9
+nseg@bdec
+vsegCdec
+R0
+R28
+!i10b 1
+!s100 59YF[:EOaMAcPk_m7j?gT0
+R2
+IiMZR;:?QDkQcBDZZBBK^B1
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segCdec.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segCdec.sv
+!i122 154
+Z30 L0 3 11
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segCdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segCdec.sv|
+!i113 1
+R8
+R9
+nseg@cdec
+vsegDdec
+R0
+R28
+!i10b 1
+!s100 U[4VD9LGf?jY[=>Aak7P]3
+R2
+I;z8;D?3NYi]inkZXSVf?j1
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segDdec.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segDdec.sv
+!i122 155
+R30
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segDdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segDdec.sv|
+!i113 1
+R8
+R9
+nseg@ddec
+vsegEdec
+R0
+R28
+!i10b 1
+!s100 =1>V6FhZAF9[7cRV3^mo:0
+R2
+I?MGjmmm<^cXV;OjfNzA4b1
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segEdec.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segEdec.sv
+!i122 156
+L0 1 19
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segEdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segEdec.sv|
+!i113 1
+R8
+R9
+nseg@edec
+vsegFdec
+R0
+R28
+!i10b 1
+!s100 LP3Ri79TBIDJNnTiKMd::1
+R2
+IJ6FYoBcJKV5dU1hZAZioC2
+R3
+S1
+R4
+w1728280745
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segFdec.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segFdec.sv
+!i122 157
+L0 3 23
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segFdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segFdec.sv|
+!i113 1
+R8
+R9
+nseg@fdec
+vsegGdec
+R0
+R28
+!i10b 1
+!s100 DnfHSn:c@9:o4dIPH;nEV2
+R2
+I8ZL1cH5a8Dlz]:9fLLgML3
+R3
+S1
+R4
+R16
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segGdec.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segGdec.sv
+!i122 158
+R30
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segGdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segGdec.sv|
+!i113 1
+R8
+R9
+nseg@gdec
+vstate4_reg
+R0
+R28
+!i10b 1
+!s100 OBz:9Jjb_dYfjkMAlgTMm0
+R2
+I?<h]=Md7CGmD0?:Bh=gk43
+R3
+S1
+R4
+w1729638133
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg.sv
+!i122 159
+L0 8 35
+R6
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg.sv|
+!i113 1
+R8
+R9
+vstate4_reg_tb
+R0
+R1
+!i10b 1
+!s100 SH9_j3FQiYWP<0PTbc:GG1
+R2
+IXzRBaADjJN[gFHlMFXAYB2
+R3
+S1
+R4
+R13
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv
+!i122 160
+L0 1 70
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv|
+!i113 1
+R8
+R9
+vvolReg
+R0
+R1
+!i10b 1
+!s100 nVP1G1o5ONKNi6]cooYAZ0
+R2
+IZ9;W7_mnoUoH@d4PJ2K1W1
+R3
+S1
+R4
+R19
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg.sv
+!i122 161
+L0 1 32
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg.sv|
+!i113 1
+R8
+R9
+nvol@reg
+vvolReg_tb
+R0
+R1
+!i10b 1
+!s100 gTQ8ZLaQR0V;5NLg0kl^z3
+R2
+IReg13hl>^L8Omk;_gL<dU3
+R3
+S1
+R4
+R19
+8C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg_tb.sv
+FC:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg_tb.sv
+!i122 162
+L0 1 111
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg_tb.sv|
+!i113 1
+R8
+R9
+nvol@reg_tb

@@ -1,0 +1,317 @@
+{C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module volReg_tb
+
+Top level modules:
+	volReg_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segAdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segAdec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segAdec
+
+Top level modules:
+	segAdec
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FA_tb
+
+Top level modules:
+	FA_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ampCalcAvg_tb
+
+Top level modules:
+	ampCalcAvg_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segBdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segBdec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segBdec
+
+Top level modules:
+	segBdec
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segCdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segCdec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segCdec
+
+Top level modules:
+	segCdec
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ampCalcAvg
+
+Top level modules:
+	ampCalcAvg
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/abs15from16.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/abs15from16.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module abs15from16
+
+Top level modules:
+	abs15from16
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/volReg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module volReg
+
+Top level modules:
+	volReg
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module state4_reg_tb
+
+Top level modules:
+	state4_reg_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segDdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segDdec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segDdec
+
+Top level modules:
+	segDdec
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag2therm.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag2therm.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mag2therm
+
+Top level modules:
+	mag2therm
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inc4EnComb_tb
+
+Top level modules:
+	inc4EnComb_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/FA.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segEdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segEdec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segEdec
+
+Top level modules:
+	segEdec
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cmp1bit
+
+Top level modules:
+	cmp1bit
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segFdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segFdec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segFdec
+
+Top level modules:
+	segFdec
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segGdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/segGdec.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module segGdec
+
+Top level modules:
+	segGdec
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RCA4
+
+Top level modules:
+	RCA4
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CODEC_cfg_tb
+
+Top level modules:
+	CODEC_cfg_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AHW2
+
+Top level modules:
+	AHW2
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioScale.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioScale.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AudioScale
+
+Top level modules:
+	AudioScale
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmdROM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmdROM.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cmdROM
+
+Top level modules:
+	cmdROM
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bcd7seg_tb
+
+Top level modules:
+	bcd7seg_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/CODEC_cfg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CODEC_cfg
+
+Top level modules:
+	CODEC_cfg
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv} {2 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cmp1bit_tb
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(36): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(37): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(38): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(39): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(40): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(41): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(42): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(43): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(44): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(45): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(46): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(47): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(51): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/cmp1bit_tb.sv(51): (vlog-2284) Empty $unit scope found.
+-- Compiling package cmp1bit_tb_sv_unit
+
+Top level modules:
+	cmp1bit_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ampReg9
+
+Top level modules:
+	ampReg9
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/codec_intf.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/codec_intf.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module codec_intf
+
+Top level modules:
+	codec_intf
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA4_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RCA4_tb
+
+Top level modules:
+	RCA4_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_ff.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_ff.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/bcd7seg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bcd7seg
+
+Top level modules:
+	bcd7seg
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/accumReg18.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/accumReg18.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module accumReg18
+
+Top level modules:
+	accumReg18
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RCA32_tb
+
+Top level modules:
+	RCA32_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mag15_tb
+
+Top level modules:
+	mag15_tb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/audReg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/audReg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module audReg
+
+Top level modules:
+	audReg
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_en_ff.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/d_en_ff.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_en_ff
+
+Top level modules:
+	d_en_ff
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/I2C24Wrt.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/I2C24Wrt.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module I2C24Wrt
+
+Top level modules:
+	I2C24Wrt
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW1.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AHW1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AHW1
+
+Top level modules:
+	AHW1
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module state4_reg
+
+Top level modules:
+	state4_reg
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/inc4EnComb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inc4EnComb
+
+Top level modules:
+	inc4EnComb
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioAWH.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/AudioAWH.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AudioAWH
+
+Top level modules:
+	AudioAWH
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/RCA32.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RCA32
+
+Top level modules:
+	RCA32
+
+} {} {}} {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/mag15.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mag15
+
+Top level modules:
+	mag15
+
+} {} {}}

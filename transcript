@@ -1,0 +1,420 @@
+# Compile of AHW1.sv was successful.
+# Compile of AHW2.sv was successful.
+# Compile of ampCalcAvg.sv failed with 5 errors.
+# Compile of ampCalcAvg_tb.sv was successful.
+# Compile of ampReg9.sv was successful.
+# Compile of AudioAWH.sv was successful.
+# Compile of AudioScale.sv was successful.
+# Compile of audReg.sv was successful.
+# Compile of bcd7seg.sv was successful.
+# Compile of bcd7seg_tb.sv was successful.
+# Compile of cmdROM.sv was successful.
+# Compile of cmp1bit.sv was successful.
+# Compile of cmp1bit_tb.sv was successful with warnings.
+# Compile of CODEC_cfg.sv was successful.
+# Compile of CODEC_cfg_tb.sv was successful.
+# Compile of codec_intf.sv was successful.
+# Compile of d_ff.sv was successful.
+# Compile of FA.sv was successful.
+# Compile of FA_tb.sv was successful.
+# Compile of I2C24Wrt.sv was successful.
+# Compile of inc4EnComb.sv was successful.
+# Compile of inc4EnComb_tb.sv was successful.
+# Compile of mag2therm.sv was successful.
+# Compile of mag15.sv was successful.
+# Compile of mag15_tb.sv was successful.
+# Compile of RCA4.sv was successful.
+# Compile of RCA4_tb.sv was successful.
+# Compile of RCA32.sv was successful.
+# Compile of RCA32_tb.sv was successful.
+# Compile of segAdec.sv was successful.
+# Compile of segBdec.sv was successful.
+# Compile of segCdec.sv was successful.
+# Compile of segDdec.sv was successful.
+# Compile of segEdec.sv was successful.
+# Compile of segFdec.sv was successful.
+# Compile of segGdec.sv was successful.
+# Compile of state4_reg.sv was successful.
+# Compile of state4_reg_tb.sv was successful.
+# Compile of volReg.sv was successful.
+# Compile of volReg_tb.sv was successful.
+# 40 compiles, 1 failed with 5 errors.
+vsim work.state4_reg_tb
+# vsim work.state4_reg_tb 
+# Start time: 20:56:42 on Dec 05,2024
+# Loading sv_std.std
+# Loading work.state4_reg_tb
+# Loading work.state4_reg
+# Loading work.d_ff
+add wave -position insertpoint sim:/state4_reg_tb/iDUT/*
+run -all
+# YAHOO! test passed for state4_reg
+# ** Note: $stop    : C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv(64)
+#    Time: 42 ps  Iteration: 0  Instance: /state4_reg_tb
+# Break in Module state4_reg_tb at C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/state4_reg_tb.sv line 64
+# Compile of ampCalcAvg.sv failed with 3 errors.
+# Compile of ampCalcAvg.sv was successful.
+vsim work.ampCalcAvg_tb
+# End time: 21:33:26 on Dec 05,2024, Elapsed time: 0:36:44
+# Errors: 0, Warnings: 7
+# vsim work.ampCalcAvg_tb 
+# Start time: 21:33:26 on Dec 05,2024
+# Loading sv_std.std
+# Loading work.ampCalcAvg_tb
+# Loading work.ampCalcAvg
+# Loading work.state4_reg
+# ** Error: (vsim-3033) Instantiation of 'abs15from16' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 64
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# ** Error: (vsim-3033) Instantiation of 'accumReg18' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 90
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# ** Error: (vsim-3033) Instantiation of 'accumReg18' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 99
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# Loading work.mag2therm
+# Loading work.mag15
+# Loading work.ampReg9
+# ** Error: (vsim-3033) Instantiation of 'd_en_ff' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv Line: 13
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# ** Error: (vsim-3033) Instantiation of 'd_en_ff' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv Line: 13
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# Error loading design
+# End time: 21:33:27 on Dec 05,2024, Elapsed time: 0:00:01
+# Errors: 5, Warnings: 1
+# Compile of AHW1.sv was successful.
+# Compile of AHW2.sv was successful.
+# Compile of ampCalcAvg.sv was successful.
+# Compile of ampCalcAvg_tb.sv was successful.
+# Compile of ampReg9.sv was successful.
+# Compile of AudioAWH.sv was successful.
+# Compile of AudioScale.sv was successful.
+# Compile of audReg.sv was successful.
+# Compile of bcd7seg.sv was successful.
+# Compile of bcd7seg_tb.sv was successful.
+# Compile of cmdROM.sv was successful.
+# Compile of cmp1bit.sv was successful.
+# Compile of cmp1bit_tb.sv was successful with warnings.
+# Compile of CODEC_cfg.sv was successful.
+# Compile of CODEC_cfg_tb.sv was successful.
+# Compile of codec_intf.sv was successful.
+# Compile of d_ff.sv was successful.
+# Compile of FA.sv was successful.
+# Compile of FA_tb.sv was successful.
+# Compile of I2C24Wrt.sv was successful.
+# Compile of inc4EnComb.sv was successful.
+# Compile of inc4EnComb_tb.sv was successful.
+# Compile of mag2therm.sv was successful.
+# Compile of mag15.sv was successful.
+# Compile of mag15_tb.sv was successful.
+# Compile of RCA4.sv was successful.
+# Compile of RCA4_tb.sv was successful.
+# Compile of RCA32.sv was successful.
+# Compile of RCA32_tb.sv was successful.
+# Compile of segAdec.sv was successful.
+# Compile of segBdec.sv was successful.
+# Compile of segCdec.sv was successful.
+# Compile of segDdec.sv was successful.
+# Compile of segEdec.sv was successful.
+# Compile of segFdec.sv was successful.
+# Compile of segGdec.sv was successful.
+# Compile of state4_reg.sv was successful.
+# Compile of state4_reg_tb.sv was successful.
+# Compile of volReg.sv was successful.
+# Compile of volReg_tb.sv was successful.
+# 40 compiles, 0 failed with no errors.
+vsim work.ampCalcAvg_tb
+# vsim work.ampCalcAvg_tb 
+# Start time: 21:36:20 on Dec 05,2024
+# Loading sv_std.std
+# Loading work.ampCalcAvg_tb
+# Loading work.ampCalcAvg
+# Loading work.state4_reg
+# ** Error: (vsim-3033) Instantiation of 'abs15from16' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 64
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# ** Error: (vsim-3033) Instantiation of 'accumReg18' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 90
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# ** Error: (vsim-3033) Instantiation of 'accumReg18' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 99
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# Loading work.mag2therm
+# Loading work.mag15
+# Loading work.ampReg9
+# ** Error: (vsim-3033) Instantiation of 'd_en_ff' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv Line: 13
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# ** Error: (vsim-3033) Instantiation of 'd_en_ff' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampReg9.sv Line: 13
+#         Searched libraries:
+#             C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/work
+# Error loading design
+# End time: 21:36:20 on Dec 05,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 2
+# Compile of AHW1.sv was successful.
+# Compile of AHW2.sv was successful.
+# Compile of ampCalcAvg.sv was successful.
+# Compile of ampCalcAvg_tb.sv was successful.
+# Compile of ampReg9.sv was successful.
+# Compile of AudioAWH.sv was successful.
+# Compile of AudioScale.sv was successful.
+# Compile of audReg.sv was successful.
+# Compile of bcd7seg.sv was successful.
+# Compile of bcd7seg_tb.sv was successful.
+# Compile of cmdROM.sv was successful.
+# Compile of cmp1bit.sv was successful.
+# Compile of cmp1bit_tb.sv was successful with warnings.
+# Compile of CODEC_cfg.sv was successful.
+# Compile of CODEC_cfg_tb.sv was successful.
+# Compile of codec_intf.sv was successful.
+# Compile of d_ff.sv was successful.
+# Compile of FA.sv was successful.
+# Compile of FA_tb.sv was successful.
+# Compile of I2C24Wrt.sv was successful.
+# Compile of inc4EnComb.sv was successful.
+# Compile of inc4EnComb_tb.sv was successful.
+# Compile of mag2therm.sv was successful.
+# Compile of mag15.sv was successful.
+# Compile of mag15_tb.sv was successful.
+# Compile of RCA4.sv was successful.
+# Compile of RCA4_tb.sv was successful.
+# Compile of RCA32.sv was successful.
+# Compile of RCA32_tb.sv was successful.
+# Compile of segAdec.sv was successful.
+# Compile of segBdec.sv was successful.
+# Compile of segCdec.sv was successful.
+# Compile of segDdec.sv was successful.
+# Compile of segEdec.sv was successful.
+# Compile of segFdec.sv was successful.
+# Compile of segGdec.sv was successful.
+# Compile of state4_reg.sv was successful.
+# Compile of state4_reg_tb.sv was successful.
+# Compile of volReg.sv was successful.
+# Compile of volReg_tb.sv was successful.
+# Compile of abs15from16.sv was successful.
+# Compile of accumReg18.sv was successful.
+# Compile of d_en_ff.sv was successful.
+# 43 compiles, 0 failed with no errors.
+vsim work.ampCalcAvg_tb
+# vsim work.ampCalcAvg_tb 
+# Start time: 21:40:05 on Dec 05,2024
+# Loading sv_std.std
+# Loading work.ampCalcAvg_tb
+# Loading work.ampCalcAvg
+# Loading work.state4_reg
+# Loading work.abs15from16
+# Loading work.accumReg18
+# Loading work.mag2therm
+# Loading work.mag15
+# Loading work.ampReg9
+# Loading work.d_ff
+# Loading work.d_en_ff
+# Loading work.cmp1bit
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'iAMPlft'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 137
+# ** Error: (vsim-3063) Port 'therm_in' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 137
+# ** Error: (vsim-3063) Port 'amp_out' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 137
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(137): [TFMPC] - Missing connection for port 'rst_n'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(137): [TFMPC] - Missing connection for port 'newAmp'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(137): [TFMPC] - Missing connection for port 'amp'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'iAMPrht'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 145
+# ** Error: (vsim-3063) Port 'therm_in' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 145
+# ** Error: (vsim-3063) Port 'amp_out' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 145
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(145): [TFMPC] - Missing connection for port 'rst_n'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(145): [TFMPC] - Missing connection for port 'newAmp'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(145): [TFMPC] - Missing connection for port 'amp'.
+# Error loading design
+# End time: 21:40:06 on Dec 05,2024, Elapsed time: 0:00:01
+# Errors: 4, Warnings: 11
+# Compile of AHW1.sv was successful.
+# Compile of AHW2.sv was successful.
+# Compile of ampCalcAvg.sv was successful.
+# Compile of ampCalcAvg_tb.sv was successful.
+# Compile of ampReg9.sv was successful.
+# Compile of AudioAWH.sv was successful.
+# Compile of AudioScale.sv was successful.
+# Compile of audReg.sv was successful.
+# Compile of bcd7seg.sv was successful.
+# Compile of bcd7seg_tb.sv was successful.
+# Compile of cmdROM.sv was successful.
+# Compile of cmp1bit.sv was successful.
+# Compile of cmp1bit_tb.sv was successful with warnings.
+# Compile of CODEC_cfg.sv was successful.
+# Compile of CODEC_cfg_tb.sv was successful.
+# Compile of codec_intf.sv was successful.
+# Compile of d_ff.sv was successful.
+# Compile of FA.sv was successful.
+# Compile of FA_tb.sv was successful.
+# Compile of I2C24Wrt.sv was successful.
+# Compile of inc4EnComb.sv was successful.
+# Compile of inc4EnComb_tb.sv was successful.
+# Compile of mag2therm.sv was successful.
+# Compile of mag15.sv was successful.
+# Compile of mag15_tb.sv was successful.
+# Compile of RCA4.sv was successful.
+# Compile of RCA4_tb.sv was successful.
+# Compile of RCA32.sv was successful.
+# Compile of RCA32_tb.sv was successful.
+# Compile of segAdec.sv was successful.
+# Compile of segBdec.sv was successful.
+# Compile of segCdec.sv was successful.
+# Compile of segDdec.sv was successful.
+# Compile of segEdec.sv was successful.
+# Compile of segFdec.sv was successful.
+# Compile of segGdec.sv was successful.
+# Compile of state4_reg.sv was successful.
+# Compile of state4_reg_tb.sv was successful.
+# Compile of volReg.sv was successful.
+# Compile of volReg_tb.sv was successful.
+# Compile of abs15from16.sv was successful.
+# Compile of accumReg18.sv was successful.
+# Compile of d_en_ff.sv was successful.
+# 43 compiles, 0 failed with no errors.
+vsim work.ampCalcAvg_tb
+# vsim work.ampCalcAvg_tb 
+# Start time: 21:44:06 on Dec 05,2024
+# Loading sv_std.std
+# Loading work.ampCalcAvg_tb
+# Loading work.ampCalcAvg
+# Loading work.state4_reg
+# Loading work.abs15from16
+# Loading work.accumReg18
+# Loading work.mag2therm
+# Loading work.mag15
+# Loading work.ampReg9
+# Loading work.d_ff
+# Loading work.d_en_ff
+# Loading work.cmp1bit
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'iAMPlft'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 137
+# ** Error: (vsim-3063) Port 'therm_in' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 137
+# ** Error: (vsim-3063) Port 'amp_out' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPlft File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 137
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(137): [TFMPC] - Missing connection for port 'rst_n'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(137): [TFMPC] - Missing connection for port 'newAmp'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(137): [TFMPC] - Missing connection for port 'amp'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'iAMPrht'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 145
+# ** Error: (vsim-3063) Port 'therm_in' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 145
+# ** Error: (vsim-3063) Port 'amp_out' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /ampCalcAvg_tb/iDUT/iAMPrht File: C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv Line: 145
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(145): [TFMPC] - Missing connection for port 'rst_n'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(145): [TFMPC] - Missing connection for port 'newAmp'.
+# ** Warning: (vsim-3722) C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg.sv(145): [TFMPC] - Missing connection for port 'amp'.
+# Error loading design
+# End time: 21:44:06 on Dec 05,2024, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 10
+# Compile of ampReg9.sv was successful.
+# Compile of ampCalcAvg.sv was successful.
+vsim work.ampCalcAvg_tb
+# vsim work.ampCalcAvg_tb 
+# Start time: 21:47:46 on Dec 05,2024
+# Loading sv_std.std
+# Loading work.ampCalcAvg_tb
+# Loading work.ampCalcAvg
+# Loading work.state4_reg
+# Loading work.abs15from16
+# Loading work.accumReg18
+# Loading work.mag2therm
+# Loading work.mag15
+# Loading work.ampReg9
+# Loading work.d_ff
+# Loading work.d_en_ff
+# Loading work.cmp1bit
+add wave -position insertpoint sim:/ampCalcAvg_tb/iDUT/*
+run -all
+# Time | rst_n | aud_vld | lft_aud | rht_aud | lft_amp | rht_amp | Result
+# -----------------------------------------------------------------------
+#                10550 | 0 |     0 |     0 | 000000000 | 000000000 | PASS
+#                21050 | 0 |  2167 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 000000001)
+#                31550 | 0 |  2816 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 000000011)
+#                42050 | 0 |  3584 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 000000111)
+#                52550 | 0 |  8192 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 000001111)
+#                63050 | 0 | 12288 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 000011111)
+#                73550 | 0 | 16384 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 000111111)
+#                84050 | 0 | 20480 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 001111111)
+#                94550 | 0 | 24576 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 011111111)
+#               105050 | 0 | 32767 |     0 | 000000000 | 000000000 | FAIL (Expected Left: 111111111)
+#               115550 | 0 |     0 |     0 | 000000000 | 000000000 | PASS
+#               126050 | 0 |     0 |  2167 | 000000000 | 000000011 | FAIL (Expected Right: 000000001)
+#               136550 | 0 |     0 |  2816 | 000000000 | 000000011 | PASS
+#               147050 | 0 |     0 |  3584 | 000000000 | 000000111 | PASS
+#               157550 | 0 |     0 |  8192 | 000000000 | 000001111 | PASS
+#               168050 | 0 |     0 | 12288 | 000000000 | 000011111 | PASS
+#               178550 | 0 |     0 | 16384 | 000000000 | 000111111 | PASS
+#               189050 | 0 |     0 | 20480 | 000000000 | 001111111 | PASS
+#               199550 | 0 |     0 | 24576 | 000000000 | 011111111 | PASS
+#               210050 | 0 |     0 | 32767 | 000000000 | 111111111 | PASS
+# Test failed:          10 errors detected.
+# ** Note: $stop    : C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv(81)
+#    Time: 210050 ps  Iteration: 0  Instance: /ampCalcAvg_tb
+# Break in Module ampCalcAvg_tb at C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv line 81
+# Compile of ampCalcAvg.sv failed with 1 errors.
+# Compile of ampCalcAvg.sv was successful.
+vsim work.ampCalcAvg_tb
+# End time: 21:56:09 on Dec 05,2024, Elapsed time: 0:08:23
+# Errors: 0, Warnings: 5
+# vsim work.ampCalcAvg_tb 
+# Start time: 21:56:09 on Dec 05,2024
+# Loading sv_std.std
+# Loading work.ampCalcAvg_tb
+# Loading work.ampCalcAvg
+# Loading work.state4_reg
+# Loading work.abs15from16
+# Loading work.accumReg18
+# Loading work.mag2therm
+# Loading work.mag15
+# Loading work.ampReg9
+# Loading work.d_ff
+# Loading work.d_en_ff
+# Loading work.cmp1bit
+add wave -position insertpoint sim:/ampCalcAvg_tb/iDUT/*
+run -all
+# Time | rst_n | aud_vld | lft_aud | rht_aud | lft_amp | rht_amp | Result
+# -----------------------------------------------------------------------
+#                10550 | 0 |     0 |     0 | 000000000 | 000000000 | PASS
+#                21050 | 0 |  2167 |     0 | 000000001 | 000000000 | PASS
+#                31550 | 0 |  2816 |     0 | 000000011 | 000000000 | PASS
+#                42050 | 0 |  3584 |     0 | 000000111 | 000000000 | PASS
+#                52550 | 0 |  8192 |     0 | 000001111 | 000000000 | PASS
+#                63050 | 0 | 12288 |     0 | 000011111 | 000000000 | PASS
+#                73550 | 0 | 16384 |     0 | 000111111 | 000000000 | PASS
+#                84050 | 0 | 20480 |     0 | 001111111 | 000000000 | PASS
+#                94550 | 0 | 24576 |     0 | 011111111 | 000000000 | PASS
+#               105050 | 0 | 32767 |     0 | 111111111 | 000000000 | PASS
+#               115550 | 0 |     0 |     0 | 000011111 | 000000000 | PASS
+#               126050 | 0 |     0 |  2167 | 000000111 | 000000001 | PASS
+#               136550 | 0 |     0 |  2816 | 000000011 | 000000011 | PASS
+#               147050 | 0 |     0 |  3584 | 000000001 | 000000111 | PASS
+#               157550 | 0 |     0 |  8192 | 000000000 | 000001111 | PASS
+#               168050 | 0 |     0 | 12288 | 000000000 | 000011111 | PASS
+#               178550 | 0 |     0 | 16384 | 000000000 | 000111111 | PASS
+#               189050 | 0 |     0 | 20480 | 000000000 | 001111111 | PASS
+#               199550 | 0 |     0 | 24576 | 000000000 | 011111111 | PASS
+#               210050 | 0 |     0 | 32767 | 000000000 | 111111111 | PASS
+# Yahoo! all tests passed for ampCalcAvg module
+# ** Note: $stop    : C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv(81)
+#    Time: 210050 ps  Iteration: 0  Instance: /ampCalcAvg_tb
+# Break in Module ampCalcAvg_tb at C:/Users/Charles Lo/Desktop/College/Classes/FA2024/ECE352/AHW5/AHW5/ampCalcAvg_tb.sv line 81
+# Can't move the Now cursor.
+# End time: 22:01:36 on Dec 05,2024, Elapsed time: 0:05:27
+# Errors: 0, Warnings: 1
